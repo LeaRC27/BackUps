@@ -1,0 +1,10 @@
+01:21:47.505 WARN  ar.sise.backup.windows.HiloCopia - KEEPPATH -- D:\Prueba\BackUps\\
+01:21:47.514 WARN  ar.sise.backup.windows.HiloCopia - NO KEEP -- D:\Prueba\BackUps\
+01:21:47.608 INFO  ar.sise.backup.windows.HiloCopia - Cantidad de archivos 48  FAILS : 0 en la carpeta BackUps
+01:21:51.460 WARN  ar.sise.backup.windows.HiloCopia - Wala!!
+01:21:51.461 INFO  ar.sise.backup.windows.Principal - El hiloCopia ha terminado
+01:23:37.454 WARN  ar.sise.backup.windows.HiloCopia - KEEPPATH -- D:\Prueba\BackUps\\
+01:23:37.472 WARN  ar.sise.backup.windows.HiloCopia - NO KEEP -- D:\Prueba\BackUps\
+01:23:37.570 INFO  ar.sise.backup.windows.HiloCopia - Cantidad de archivos 48  FAILS : 0 en la carpeta BackUps
+01:23:39.068 WARN  ar.sise.backup.windows.HiloCopia - Wala!!
+01:23:39.069 INFO  ar.sise.backup.windows.Principal - El hiloCopia ha terminado
